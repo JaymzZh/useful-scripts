@@ -23,3 +23,4 @@
 - **MultiEditing** - Simultaneously edit in more than one location in the editor If you've ever ran into a case where you wanted to quickly change variable names or multiple loop conditions - you can use Multi-Edit to set virtual carets that all behave the same.
 - **JSEnhancements** - Some useful features for Visual Studio JavaScript and CSS editors - outlining and matching braces highlighting.
 - **Glyphfriend** - Enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Foundation, IonIcons and more.
+- **CodeMaid** - Cleanup, dig through and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
