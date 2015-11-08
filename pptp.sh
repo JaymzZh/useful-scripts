@@ -33,7 +33,7 @@ cat >/etc/pptpd.conf <<END
 option /etc/ppp/options.pptpd
 logwtmp
 localip 192.168.20.1
-remoteip 192.168.20.100-120
+remoteip 192.168.20.200-230,192.168.20.245
 END
 
 cat >> /etc/sysctl.conf <<END
