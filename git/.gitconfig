@@ -1,0 +1,22 @@
+[user]
+	name = zhangmm
+	email = zhangmin6105@qq.com
+[core]
+	autocrlf = true
+[color]
+	ui = 1
+helper = store
+[help]
+	autocorrect = 1
+[alias]
+	co = checkout
+	cm = commit
+	st = status -sb
+	ac = !git add . -A & git commit
+	p = push
+	tags = tag -l
+	branches = branch -a
+	remotes = remote -v
+	cleanup = !git branch --merged | grep -v '*' | xargs git branch -d
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+  
