@@ -19,3 +19,7 @@ if [[ -r /usr/local/bin/virtualenvwrapper.sh ]]; then
 else
 	echo "WARNING: Can't find virtualenvwrapper.sh"
 fi
+
+if [[ -r ~/.bashrc ]]; then
+    source ~/.bashrc
+fi
