@@ -29,12 +29,11 @@ if [ -d /etc/profile.d ]; then
   unset i
 fi
 
-export SPARK_HOME=/home/jeffiy/Documents/spark
-export PATH=$SPARK_HOME/bin:$PATH
-export PYTHONPATH=$SPARK_HOME/python
+#export SPARK_HOME=/home/jeffiy/Documents/spark
+#export PATH=$SPARK_HOME/bin:$PATH
+#export PYTHONPATH=$SPARK_HOME/python
 
 export JAVA_HOME=/usr/lib/jvm/jdk
 export JRE_HOME=$JAVA_HOME/jre
 export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib
 export PATH=$JAVA_HOME/bin:$PATH
-
