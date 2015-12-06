@@ -11,7 +11,9 @@
 - **Python Tools for Visual Studio** - PTVS is a free/OSS plugin from Microsoft that turns VS into a Python IDE (Express/Pro).
 - **SideWaffle Template Pack** - A side dish filled with item templates for building websites.
 - **VSCommands** - Productivity Extension for Visual Studio.
-- **Web Essentials** - Extends Visual Studio with a lot of new features that web developers have been missing for many years.
+- **Web Essentials** - Adds many useful features to Visual Studio for web developers.
 - **Developer Assistant** - puts millions of code snippets and code sample projects at your fingertips while you are coding in Visual Studio.
 - **Bootstrap Snippet Pack** - A collection of Twitter Bootstrap snippets for Visual Studio.
 - **.NET Portability Analyzer** - Evaluates portability of assemblies across .NET platforms.
+- **CodeRush** - Powerful code-creation, navigation, refactoring, and code visualization technologies designed for VisualStudio.
+- **Code Compare** - File diff tool that reads structure of C#, C++,VB code for better results. Includes: folder comparison tool, standalone app for comparing and merging files and folders, code review support.  
