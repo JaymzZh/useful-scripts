@@ -21,3 +21,4 @@
 - **Snippet Designer** - allows you to create and search for snippets inside the IDE.
 - **PTVS** - Python Tools for Visual Studio.
 - **MultiEditing** - Simultaneously edit in more than one location in the editor If you've ever ran into a case where you wanted to quickly change variable names or multiple loop conditions - you can use Multi-Edit to set virtual carets that all behave the same.
+- **JSEnhancements** - Some useful features for Visual Studio JavaScript and CSS editors - outlining and matching braces highlighting.
