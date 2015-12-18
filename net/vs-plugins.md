@@ -1,4 +1,4 @@
-## Some Useful Plugins of Visual Studio
+## Some Useful Plugins of Visual Studio I used
  
 - **ReSharper** - The legendary .NET productivity tool.
 - **ClaudiaIDE** - change the background image of VS.
